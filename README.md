@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Armway 👋
+I am a passionate technology learner starting my journey in programming and cyber security. I love open-source tools and exploring Linux systems!
 
-<!--
-**Armway-analyst/Armway-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me:
+- 🔭 **Current Focus:** Learning Python scripting via Termux and mastering variables.
+- 🎯 **Goal:** Looking for guidance on how to become a top Cyber Security Analyst.
+- 💬 **Ask me about:** Basic Termux setups and my learning journey in Python.
+- 📫 **How to reach me:** alisilerichardmwakasege@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Tools I Use:
+- **OS:** Linux (Ubuntu/Debian via Termux PRoot)
+- **Terminal:** Termux / XFCE Terminal
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Every expert was once a beginner."* 🚀
